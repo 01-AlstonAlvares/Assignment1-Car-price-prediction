@@ -1,0 +1,30 @@
+{
+  "features": [
+    "year",
+    "km_driven",
+    "fuel",
+    "seller_type",
+    "transmission",
+    "owner",
+    "mileage",
+    "engine",
+    "max_power",
+    "seats",
+    "brand"
+  ],
+  "num_cols": [
+    "year",
+    "km_driven",
+    "owner",
+    "mileage",
+    "engine",
+    "max_power",
+    "seats"
+  ],
+  "cat_cols": [
+    "fuel",
+    "seller_type",
+    "transmission",
+    "brand"
+  ]
+}
